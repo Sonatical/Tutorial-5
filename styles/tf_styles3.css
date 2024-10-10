@@ -24,7 +24,7 @@
    
 
 html {
-   background: url(tf_back1.png) center center / cover no-repeat fixed, rgb(134,176,232);
+   background: url(../images/tf_back1.png) center center / cover no-repeat fixed, rgb(134,176,232);
    height: 100%;
    font-family: Verdana, Geneva, sans-serif;
    font-size: 12px;
